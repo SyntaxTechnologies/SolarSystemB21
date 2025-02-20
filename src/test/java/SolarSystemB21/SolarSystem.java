@@ -13,9 +13,15 @@ public class SolarSystem {
         exosias.temp="-54k";
 
 
+
         planet1 trao=new planet1();
         trao.color="blue";
         trao.temp="10kkv";
+
+        Planet2 xaro =new Planet2();
+        xaro.color="blue";
+        xaro.temp="456 celcius";
+
 
     }
 
